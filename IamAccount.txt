@@ -1,12 +1,1 @@
-Adminncokupdate|Pwkontolaisksjeduudamazonasu#1ejeg2shehhe|User: Adminncokupdate|User: arn:aws:iam::188699700283:user/Adminncokupdate
-
-Adminncokupdate|Pwkontolaisksjeduudamazonasu#1ejeg2shehhe|User: Adminncokupdate|User: arn:aws:iam::320406895696:user/Adminncokupdate
-
-Adminncoksupdate|Pwkontolaisksjeduudamazonasu#1ejeg2shehhe|User: Adminncoksupdate|User: arn:aws:iam::188699700283:user/Adminncoksupdate
-
-Adminncoksupdate|Pwkontolaisksjeduudamazonasu#1ejeg2shehhe|User: Adminncoksupdate|User: arn:aws:iam::320406895696:user/Adminncoksupdate
-
-testadmin|Pwkontolaisksjeduudamazonasu#1ejeg2shehhe|User: testadmin|User: arn:aws:iam::188699700283:user/testadmin
-
-testadmin|Pwkontolaisksjeduudamazonasu#1ejeg2shehhe|User: testadmin|User: arn:aws:iam::320406895696:user/testadmin
 
